@@ -1,2 +1,2 @@
-# react-app-typescript-template
-react-app-typescript-template
+# vite-react-typescript-template
+vite-react-typescript-template
