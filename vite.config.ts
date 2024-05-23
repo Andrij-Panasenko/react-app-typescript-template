@@ -9,9 +9,9 @@ export default defineConfig({
   resolve: {
     alias: {
       src: '/src',
-      components: '/components',
-      pages: '/pages',
-      assets: '/assets'
+      components: '/src/components',
+      pages: '/src/pages',
+      assets: '/src/assets'
     }
   },
   base: '/vite-react-typescript-template' //don't forget to change this line after using template
